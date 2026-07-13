@@ -1,0 +1,19 @@
+{
+  "recommended_niche": "科研人员可发表级图表/可复现研究工具",
+  "target_segment": "海外科研人员（博士/博士后，需出期刊级图表、跑数值模拟、保证可复现性）",
+  "positioning_statement": "为海外科研人员提供可发表级图表与可复现研究工具的 AI 驱动轻量 SaaS",
+  "candidates": [
+    {"id": 1, "name": "科研人员可发表级图表/可复现研究工具", "score": 26, "recommended": true},
+    {"id": 2, "name": "学术写作/发表辅助垂直 SaaS", "score": 23, "recommended": false},
+    {"id": 3, "name": "出海独立开发者流水线即工具产品", "score": 22, "recommended": false}
+  ],
+  "assumption_dependency": {
+    "#1_最懂人群=科研人员": "决定性",
+    "#2_付费闭环未跑": "高",
+    "#3_兼职15-20h": "中",
+    "#4_产品可运营有坑": "中",
+    "#5_无私域": "中",
+    "#6_英文销售弱": "低-中"
+  },
+  "status": "draft-based-on-assumption-1"
+}
